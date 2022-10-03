@@ -10,3 +10,15 @@
 /Users/helenguov/repos/Drawberry/Drawberry.Domain/obj/Debug/net6.0/refint/Drawberry.Domain.dll
 /Users/helenguov/repos/Drawberry/Drawberry.Domain/obj/Debug/net6.0/Drawberry.Domain.pdb
 /Users/helenguov/repos/Drawberry/Drawberry.Domain/obj/Debug/net6.0/ref/Drawberry.Domain.dll
+/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/bin/Debug/net6.0/Drawberry.Domain.deps.json
+/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/bin/Debug/net6.0/Drawberry.Domain.dll
+/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/bin/Debug/net6.0/Drawberry.Domain.pdb
+/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/obj/Debug/net6.0/Drawberry.Domain.csproj.AssemblyReference.cache
+/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/obj/Debug/net6.0/Drawberry.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/obj/Debug/net6.0/Drawberry.Domain.AssemblyInfoInputs.cache
+/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/obj/Debug/net6.0/Drawberry.Domain.AssemblyInfo.cs
+/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/obj/Debug/net6.0/Drawberry.Domain.csproj.CoreCompileInputs.cache
+/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/obj/Debug/net6.0/Drawberry.Domain.dll
+/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/obj/Debug/net6.0/refint/Drawberry.Domain.dll
+/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/obj/Debug/net6.0/Drawberry.Domain.pdb
+/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/obj/Debug/net6.0/ref/Drawberry.Domain.dll

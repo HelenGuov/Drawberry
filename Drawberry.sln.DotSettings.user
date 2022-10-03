@@ -21,9 +21,7 @@
   &lt;/And&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=78b172cb_002D9846_002D4d75_002D94fe_002Dbd05c9c8464d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;NUnit3x::ED661D88-4C74-455D-8DC4-D2AB18A4ECBA::net6.0::Drawberrry.Tests.Tests&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+  &lt;ProjectFile&gt;ED661D88-4C74-455D-8DC4-D2AB18A4ECBA/f:GridServiceTest.cs&lt;/ProjectFile&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=78d2f90f_002D3f5b_002D4253_002D89bd_002Da0c8710bd5b1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenRectangleWhenCreateRectangleThenReturnsCreatedRectangle" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;And&gt;

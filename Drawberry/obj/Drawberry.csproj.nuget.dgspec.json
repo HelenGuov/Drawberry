@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/helenguov/repos/Drawberry/Drawberry/Drawberry.csproj": {}
+    "/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry/Drawberry.csproj": {}
   },
   "projects": {
-    "/Users/helenguov/repos/Drawberry/Drawberry/Drawberry.csproj": {
+    "/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry/Drawberry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/helenguov/repos/Drawberry/Drawberry/Drawberry.csproj",
+        "projectUniqueName": "/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry/Drawberry.csproj",
         "projectName": "Drawberry",
-        "projectPath": "/Users/helenguov/repos/Drawberry/Drawberry/Drawberry.csproj",
+        "projectPath": "/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry/Drawberry.csproj",
         "packagesPath": "/Users/helenguov/.nuget/packages/",
-        "outputPath": "/Users/helenguov/repos/Drawberry/Drawberry/obj/",
+        "outputPath": "/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/helenguov/.nuget/NuGet/NuGet.Config"

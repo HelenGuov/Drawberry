@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/helenguov/repos/Drawberry/Drawberry.Domain/Drawberry.Domain.csproj": {}
+    "/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/Drawberry.Domain.csproj": {}
   },
   "projects": {
-    "/Users/helenguov/repos/Drawberry/Drawberry.Domain/Drawberry.Domain.csproj": {
+    "/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/Drawberry.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/helenguov/repos/Drawberry/Drawberry.Domain/Drawberry.Domain.csproj",
+        "projectUniqueName": "/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/Drawberry.Domain.csproj",
         "projectName": "Drawberry.Domain",
-        "projectPath": "/Users/helenguov/repos/Drawberry/Drawberry.Domain/Drawberry.Domain.csproj",
+        "projectPath": "/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/Drawberry.Domain.csproj",
         "packagesPath": "/Users/helenguov/.nuget/packages/",
-        "outputPath": "/Users/helenguov/repos/Drawberry/Drawberry.Domain/obj/",
+        "outputPath": "/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/helenguov/.nuget/NuGet/NuGet.Config"

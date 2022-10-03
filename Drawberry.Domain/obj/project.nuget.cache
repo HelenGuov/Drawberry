@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BkCmYXcB1XdeSPkZor5LCVRwrA1S4BOuJnq9hAeq1ETmNk9W1U/V9OTlaBnKX7j0AMxSNDYfT5ch5drXWR4QGg==",
+  "dgSpecHash": "lcy95ofoYF74ABBeGHCR50ggawa679shB/5Tx79PBk64TWvzuPTYvjZGw27xpTh6zuW7GZkMkovBLoLCyc/bkA==",
   "success": true,
-  "projectFilePath": "/Users/helenguov/repos/Drawberry/Drawberry.Domain/Drawberry.Domain.csproj",
+  "projectFilePath": "/Users/helenguov/repos/drawberry-repo/Drawberry/Drawberry.Domain/Drawberry.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

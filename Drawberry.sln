@@ -2,11 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawberry", "Drawberry\Drawberry.csproj", "{34F24E8A-ED7A-4E30-A017-5807E1B7FE96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawberrry.Tests", "Drawberrry.Tests\Drawberrry.Tests.csproj", "{ED661D88-4C74-455D-8DC4-D2AB18A4ECBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawberry.Tests", "Drawberry.Tests\Drawberry.Tests.csproj", "{ED661D88-4C74-455D-8DC4-D2AB18A4ECBA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawberry.Domain", "Drawberry.Domain\Drawberry.Domain.csproj", "{C300DA05-8345-4E0A-9F19-7AF6CDA11D00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawberrry.Service", "Drawberrry.Service\Drawberrry.Service.csproj", "{F4759E3D-0067-419B-92E1-C15BD693087B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawberry.Service", "Drawberry.Service\Drawberry.Service.csproj", "{F4759E3D-0067-419B-92E1-C15BD693087B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
