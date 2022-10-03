@@ -1,0 +1,58 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=310ac5d7_002D22b6_002D45c3_002D86ba_002Dec14650c0cc6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenRectValuesWhenCreateRectangleThenReturnsCreatedRectangle" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::ED661D88-4C74-455D-8DC4-D2AB18A4ECBA::net6.0::Drawberrry.Tests.Tests.GivenRectValuesWhenCreateRectangleThenReturnsCreatedRectangle&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=33a1166f_002Dd682_002D4a3f_002Db602_002D725954197c52/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenRectangleWhenCreateRectangleThenReturnsCreatedRectangle #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;And&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::ED661D88-4C74-455D-8DC4-D2AB18A4ECBA::net6.0::Drawberrry.Tests.Tests.GivenRectangleWhenCreateRectangleThenReturnsCreatedRectangle&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;Not&gt;
+      &lt;And&gt;
+        &lt;TestAncestor&gt;
+          &lt;TestId&gt;NUnit3x::ED661D88-4C74-455D-8DC4-D2AB18A4ECBA::net6.0::Drawberrry.Tests.Tests.GivenRectangleWhenCreateRectangleThenReturnsCreatedRectangle&lt;/TestId&gt;
+        &lt;/TestAncestor&gt;
+        &lt;Project Location="/Users/helenguov/repos/Drawberry/Drawberrry.Tests" Presentation="&amp;lt;Drawberrry.Tests&amp;gt;" /&gt;
+        &lt;Namespace&gt;Drawberrry.Tests&lt;/Namespace&gt;
+      &lt;/And&gt;
+    &lt;/Not&gt;
+  &lt;/And&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=78b172cb_002D9846_002D4d75_002D94fe_002Dbd05c9c8464d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::ED661D88-4C74-455D-8DC4-D2AB18A4ECBA::net6.0::Drawberrry.Tests.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=78d2f90f_002D3f5b_002D4253_002D89bd_002Da0c8710bd5b1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenRectangleWhenCreateRectangleThenReturnsCreatedRectangle" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;And&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::ED661D88-4C74-455D-8DC4-D2AB18A4ECBA::net6.0::Drawberrry.Tests.Tests.GivenRectangleWhenCreateRectangleThenReturnsCreatedRectangle&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;Not&gt;
+      &lt;And&gt;
+        &lt;TestAncestor&gt;
+          &lt;TestId&gt;NUnit3x::ED661D88-4C74-455D-8DC4-D2AB18A4ECBA::net6.0::Drawberrry.Tests.Tests.GivenRectangleWhenCreateRectangleThenReturnsCreatedRectangle&lt;/TestId&gt;
+        &lt;/TestAncestor&gt;
+        &lt;Project Location="/Users/helenguov/repos/Drawberry/Drawberrry.Tests" Presentation="&amp;lt;Drawberrry.Tests&amp;gt;" /&gt;
+        &lt;Namespace&gt;Drawberrry.Tests&lt;/Namespace&gt;
+      &lt;/And&gt;
+    &lt;/Not&gt;
+  &lt;/And&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a31f71a5_002D9dc8_002D4842_002D9c42_002D143ec6d55ec8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenOverlapWithExistingShape_WhenPlaceShapeOnGrid_ThenNothingIsPlace" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::ED661D88-4C74-455D-8DC4-D2AB18A4ECBA::net6.0::Drawberrry.Tests.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=efb9692d_002D4a24_002D4af2_002D8fbb_002D65660445f35a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenRectOutsideOfGrid_WhenPlaceARectangle_ThenNothingIsPlaceOnGrid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::ED661D88-4C74-455D-8DC4-D2AB18A4ECBA::net6.0::Drawberrry.Tests.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f216064f_002D7c76_002D44db_002Da1a2_002D27c82e8eff90/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenRectangleWhenCreateRectangleThenReturnsCreatedRectangle #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::ED661D88-4C74-455D-8DC4-D2AB18A4ECBA::net6.0::Drawberrry.Tests.Tests.GivenRectOutsideOfGrid_WhenPlaceARectangle_ThenNothingIsPlaceOnGrid&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

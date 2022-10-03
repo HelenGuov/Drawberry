@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Drawberrry.Service/1.0.0": {
+        "dependencies": {
+          "Drawberry.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Drawberrry.Service.dll": {}
+        }
+      },
+      "Drawberry.Domain/1.0.0": {
+        "runtime": {
+          "Drawberry.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Drawberrry.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Drawberry.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
